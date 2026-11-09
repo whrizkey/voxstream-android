@@ -28,6 +28,8 @@ jobs:
 
       - name: Setup Gradle
         uses: gradle/actions/setup-gradle@db19848a5fa7950289d3668fb053140cf3028d43 # v3.3.2
+        with:
+          gradle-version: '8.7'
 
       - name: Grant execute permission for gradlew
         run: chmod +x gradlew
