@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VoxStream</string>
+    <string name="action_open_stream">Open Stream</string>
+    <string name="action_open_file">Open Local Video</string>
+    <string name="action_settings">Settings</string>
+    <string name="mode_subtitles">Subtitles Only</string>
+    <string name="mode_dubbing">Dubbing Only</string>
+    <string name="mode_both">Subtitles + Dubbing</string>
+    <string name="source_language">Source Language</string>
+    <string name="target_language">Target Language</string>
+    <string name="buffering_lookahead">Buffering lookahead…</string>
+</resources>
